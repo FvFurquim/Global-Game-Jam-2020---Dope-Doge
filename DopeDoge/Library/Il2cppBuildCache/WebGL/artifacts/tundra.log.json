@@ -1,0 +1,4 @@
+{"msg":"init","dagFile":"artifacts\\tundra.dag","targets":[]}
+{"msg":"newNode","annotation":"WriteResponseFile artifacts/rsp/15632055966769776723.rsp","index":1}
+{"msg":"noderesult","annotation":"WriteResponseFile artifacts/rsp/15632055966769776723.rsp","index":1,"exitcode":0}
+{"msg":"newNode","annotation":"Il2Cpp D:/fvfurq/Documents/UnityProjects/dope_doge/New Unity Project/Library/Il2cppBuildCache/WebGL/Native/build.bc","index":2}
